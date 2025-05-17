@@ -1,0 +1,10 @@
+Artificial intelligence (AI) is a field of computer science that focuses on creating machines capable of performing tasks that typically require human intelligence. This includes learning, problem-solving, decision-making, and comprehension. AI systems can process data, make predictions, identify objects, and even generate natural language. 
+Key aspects of AI:
+Simulating Human Intelligence:
+AI aims to replicate human-like abilities, such as learning from experience and adapting to new situations. 
+Machine Learning:
+A core subfield of AI where algorithms learn from data to improve performance on specific tasks. 
+Deep Learning:
+A type of machine learning that uses artificial neural networks with multiple layers to analyze complex data patterns. 
+Applications:
+AI is used in various fields, including healthcare, finance, transportation, and manufacturing. 
